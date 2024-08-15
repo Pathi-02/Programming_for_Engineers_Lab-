@@ -1,6 +1,6 @@
 # Tempreature unit converter
 # CO1010 : Lab 02
-# Date : 1t5/08/2024
+# Date : 15/08/2024
 
 # Read the celsius_temp  as float inputs
 celsius_temp = float(input("Enter temperature in Celsius :"))
