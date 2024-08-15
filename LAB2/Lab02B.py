@@ -8,7 +8,7 @@ Re = float(input("Enter the Reynolds number ( Re ): "))
 #check the coditions
 if Re <= 2300:
     state = 'Laminar Region'
-elif 2300< Re <= 4000:
+elif Re <= 4000:
     state = 'Transition Region'
 else:
     state = "Turbulent Region"
